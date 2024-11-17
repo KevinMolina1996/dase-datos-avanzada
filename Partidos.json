@@ -1,0 +1,50 @@
+[
+  {
+    "_id": {
+      "$oid": "632651adc0149946b79b81f6"
+    },
+    "id": "1",
+    "equipo_01": 1,
+    "equipo_02": 2,
+    "ganador": 1,
+    "gol_equipo_1": 2,
+    "gol_equipo_2": 1,
+    "Puntos": 3
+  },
+  {
+    "_id": {
+      "$oid": "632651adc0149946b79b81f7"
+    },
+    "id": "2",
+    "equipo_01": 3,
+    "equipo_02": 4,
+    "ganador": 4,
+    "gol_equipo_1": 5,
+    "gol_equipo_2": 4,
+    "Puntos": 3
+  },
+  {
+    "_id": {
+      "$oid": "632651adc0149946b79b81f8"
+    },
+    "id": "3",
+    "equipo_01": 1,
+    "equipo_02": 3,
+    "ganador": 1,
+    "gol_equipo_1": 3,
+    "gol_equipo_2": 2,
+    "Puntos": 3
+  },
+  {
+    "_id": {
+      "$oid": "632651adc0149946b79b81f9"
+    },
+    "id": "4",
+    "equipo_01": 4,
+    "equipo_02": 2,
+    "ganador": 0,
+    "gol_equipo_1": 1,
+    "gol_equipo_2": 1,
+    "Puntos": 1
+  }
+]

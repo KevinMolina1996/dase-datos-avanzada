@@ -1,0 +1,210 @@
+[
+  {
+    "_id": {
+      "$oid": "63264d90c0149946b79b81d6"
+    },
+    "id": 1,
+    "Nombre": "Cali",
+    "ciudad": "Cali",
+    "jugadores": [
+      {
+        "id": "1",
+        "id_equipo": "1",
+        "nombre_jugador": "L. Messi",
+        "experiencia": "95",
+        "edad": "27"
+      },
+      {
+        "id": "5",
+        "id_equipo": "1",
+        "nombre_jugador": "M. Neuer",
+        "experiencia": "90",
+        "edad": "28"
+      },
+      {
+        "id": "9",
+        "id_equipo": "1",
+        "nombre_jugador": "B. Schweinsteiger",
+        "experiencia": "88",
+        "edad": "29"
+      },
+      {
+        "id": "13",
+        "id_equipo": "1",
+        "nombre_jugador": "R. Lewandowski",
+        "experiencia": "89",
+        "edad": "25"
+      },
+      {
+        "id": "17",
+        "id_equipo": "1",
+        "nombre_jugador": "David Silva",
+        "experiencia": "87",
+        "edad": "28"
+      },
+      {
+        "id": "21",
+        "id_equipo": "1",
+        "nombre_jugador": "Palavecino",
+        "experiencia": "83",
+        "edad": "29"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "63264d90c0149946b79b81d7"
+    },
+    "id": 2,
+    "Nombre": "America",
+    "ciudad": "Cali",
+    "jugadores": [
+      {
+        "id": "2",
+        "id_equipo": "2",
+        "nombre_jugador": "Cristiano Ronaldo",
+        "experiencia": "92",
+        "edad": "29"
+      },
+      {
+        "id": "6",
+        "id_equipo": "2",
+        "nombre_jugador": "Suarez",
+        "experiencia": "91",
+        "edad": "27"
+      },
+      {
+        "id": "10",
+        "id_equipo": "2",
+        "nombre_jugador": "Ribery",
+        "experiencia": "88",
+        "edad": "31"
+      },
+      {
+        "id": "14",
+        "id_equipo": "2",
+        "nombre_jugador": "P. Lahm",
+        "experiencia": "87",
+        "edad": "30"
+      },
+      {
+        "id": "18",
+        "id_equipo": "2",
+        "nombre_jugador": "Modrick",
+        "experiencia": "87",
+        "edad": "28"
+      },
+      {
+        "id": "22",
+        "id_equipo": "2",
+        "nombre_jugador": "C. Bravo",
+        "experiencia": "83",
+        "edad": "31"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "63264d90c0149946b79b81d8"
+    },
+    "id": 3,
+    "Nombre": "Nacional",
+    "ciudad": "Medeillin",
+    "jugadores": [
+      {
+        "id": "3",
+        "id_equipo": "3",
+        "nombre_jugador": "A. Robben",
+        "experiencia": "90",
+        "edad": "30"
+      },
+      {
+        "id": "7",
+        "id_equipo": "3",
+        "nombre_jugador": "E. Hazard",
+        "experiencia": "90",
+        "edad": "23"
+      },
+      {
+        "id": "11",
+        "id_equipo": "3",
+        "nombre_jugador": "Falcao",
+        "experiencia": "88",
+        "edad": "28"
+      },
+      {
+        "id": "15",
+        "id_equipo": "3",
+        "nombre_jugador": "Sergio Ramos",
+        "experiencia": "87",
+        "edad": "28"
+      },
+      {
+        "id": "19",
+        "id_equipo": "3",
+        "nombre_jugador": "James",
+        "experiencia": "92",
+        "edad": "22"
+      },
+      {
+        "id": "23",
+        "id_equipo": "3",
+        "nombre_jugador": "B. Leno",
+        "experiencia": "85",
+        "edad": "22"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "63264d90c0149946b79b81d9"
+    },
+    "id": 4,
+    "Nombre": "Millonarios",
+    "ciudad": "Bogota",
+    "jugadores": [
+      {
+        "id": "4",
+        "id_equipo": "4",
+        "nombre_jugador": "Z. Ibrahimovich",
+        "experiencia": "90",
+        "edad": "32"
+      },
+      {
+        "id": "8",
+        "id_equipo": "4",
+        "nombre_jugador": "R. van Persie",
+        "experiencia": "88",
+        "edad": "30"
+      },
+      {
+        "id": "12",
+        "id_equipo": "4",
+        "nombre_jugador": "G. Bale",
+        "experiencia": "91",
+        "edad": "24"
+      },
+      {
+        "id": "16",
+        "id_equipo": "4",
+        "nombre_jugador": "Thiago Silva",
+        "experiencia": "87",
+        "edad": "29"
+      },
+      {
+        "id": "20",
+        "id_equipo": "4",
+        "nombre_jugador": "Neymar",
+        "experiencia": "91",
+        "edad": "22"
+      },
+      {
+        "id": "24",
+        "id_equipo": "4",
+        "nombre_jugador": "Angelo Rodriguez",
+        "experiencia": "84",
+        "edad": "27"
+      }
+    ]
+  }
+]

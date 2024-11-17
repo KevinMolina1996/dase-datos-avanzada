@@ -1,0 +1,33 @@
+[
+  {
+    "_id": {
+      "$oid": "63265d11c0149946b79b8226"
+    },
+    "id": 1,
+    "id_partido": 1,
+    "id_jugador": 1,
+    "id_equipos": 1,
+    "goles": 2
+  },
+  {
+    "id": 2,
+    "id_partido": 2,
+    "id_jugador": 1,
+    "id_equipos": 1,
+    "goles": 3
+  },
+  {
+    "id": 3,
+    "id_partido": 1,
+    "id_jugador": 2,
+    "id_equipos": 2,
+    "goles": 1
+  },
+  {
+    "id": 4,
+    "id_partido": 3,
+    "id_jugador": 3,
+    "id_equipos": 3,
+    "goles": 2
+  }
+]

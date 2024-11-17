@@ -1,0 +1,74 @@
+[
+  {
+    "_id": {
+      "$oid": "63273b83140d115ae8597249"
+    },
+    "Nombre": "Torneo 1",
+    "Equipo": 1,
+    "fecha de inicio": {
+      "$date": {
+        "$numberLong": "0"
+      }
+    },
+    "Fecha de fin": {
+      "$date": {
+        "$numberLong": "0"
+      }
+    },
+    "puntos": 6
+  },
+  {
+    "_id": {
+      "$oid": "63273b83140d115ae859724a"
+    },
+    "Nombre": "Torneo 1",
+    "Equipo": 2,
+    "fecha de inicio": {
+      "$date": {
+        "$numberLong": "0"
+      }
+    },
+    "Fecha de fin": {
+      "$date": {
+        "$numberLong": "0"
+      }
+    },
+    "puntos": 3
+  },
+  {
+    "_id": {
+      "$oid": "63273b83140d115ae859724b"
+    },
+    "Nombre": "Torneo 1",
+    "Equipo": 3,
+    "fecha de inicio": {
+      "$date": {
+        "$numberLong": "0"
+      }
+    },
+    "Fecha de fin": {
+      "$date": {
+        "$numberLong": "0"
+      }
+    },
+    "puntos": 1
+  },
+  {
+    "_id": {
+      "$oid": "63273b83140d115ae859724c"
+    },
+    "Nombre": "Torneo 1",
+    "Equipo": 4,
+    "fecha de inicio": {
+      "$date": {
+        "$numberLong": "0"
+      }
+    },
+    "Fecha de fin": {
+      "$date": {
+        "$numberLong": "0"
+      }
+    },
+    "puntos": 1
+  }
+]
