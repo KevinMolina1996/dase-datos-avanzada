@@ -1,0 +1,43 @@
+
+# Creacion de nuevos puertos.
+mongod --replSet RS --dbpath="C:\data\db\nodo1" --port 20001
+mongod --replSet RS --dbpath="C:\data\db\nodo2" --port 20002
+mongod --replSet RS --dbpath="C:\data\db\nodo3" --port 20003
+
+#Conectarme a localhost.
+mongo localhost:20001 --- Es localhost
+
+#mostrar base de datos.
+use torneo
+db.Equipos.find()
+
+# Iniciar Replica.
+rs.initiate() 
+
+#Agregos las dos instancias al modelo.
+rs.add("localhost:20001")
+rs.add("localhost:20002")
+
+#Inserto un registro Nuevo.
+db.Jugadores.insertMany([{
+       "id": "4",
+    "id_equipo": "4",
+    "nombre_jugador": "Delpiero",
+    "experiencia": "95",
+    "edad": "27"
+  },{
+    "id": "5",
+    "id_equipo": "5",
+    "nombre_jugador": "James Rodriguez",
+    "experiencia": "92",
+    "edad": "29"
+  }])
+  
+db.Jugadores.find()
+rs.slaveOk()
+
+
+
+
+
+
